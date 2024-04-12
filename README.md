@@ -12,7 +12,7 @@ This Symfony application serves as a simple order management system. It reads or
 #### Get all orders
 
 ```http
-  GET /api/order
+  GET /api/orders
 ```
 
 | Parameter | Type     | Description                |
